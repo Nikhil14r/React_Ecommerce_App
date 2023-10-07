@@ -1,0 +1,31 @@
+.user-testimonials {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+}
+
+.testimonial-card {
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-card:hover {
+    border: 3px solid red;
+}
+
+
+.testimonial-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.testimonial-buttons button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    margin: 0 10px;
+}
+
+.testimonial-buttons button:hover {
+    color: #007bff;
+}

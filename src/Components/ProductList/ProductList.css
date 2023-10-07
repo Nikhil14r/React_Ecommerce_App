@@ -1,0 +1,16 @@
+.card-img,
+.card-img-bottom,
+.card-img-top {
+    height: 150px !important;
+    width: 100%;
+}
+
+p {
+    margin-bottom: 1px !important;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
